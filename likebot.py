@@ -9,7 +9,7 @@ import os.path,sys,urllib,shutil,subprocess
 
 
 cl = STN.LINE()
-cl.login(token='authoken punya kalian')
+cl.login(token='EoO9UDQUMthNzatjAWQa.NYHb79XzKmPGmTHzWQKt/G.WAd1svEVKlMICcFu/dd9gU2v8sx00ii6DApj0eUtXxg')
 cl.loginResult()
 
 print u"PRANK BOTLIKE SUCCESS LOGIN"
@@ -19,8 +19,8 @@ sys.setdefaultencoding('utf-8')
 KAC = [cl]
 mid = cl.getProfile().mid
 
-Bots = [mid]
-admsa="mid kalian"
+Bots = [u9f2841efdc5990ca6032d859c2a913fa]
+admsa="u9f2841efdc5990ca6032d859c2a913fa"
 wait = {
     'contact':False,
     'autoJoin':True,
